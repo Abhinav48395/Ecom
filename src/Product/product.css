@@ -1,0 +1,109 @@
+.search{
+    padding: 10px;
+    width: 40%;
+    border-radius: 20px;
+    border: 1px solid gainsboro;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+}
+
+.car{
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(229, 229, 229);
+   
+    
+}
+
+.details{
+    text-align: left;
+    align-items: left;
+    /* border: 2px solid rgb(2, 117, 216); */
+    padding: 20px;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+
+.mycard{
+    width: 100% !important;
+    
+}
+
+.fes{
+    color: white;
+    background-color: rgb(2, 117, 216);
+    height: 30px;
+    
+}
+
+
+.img{
+    height: 350px;
+   
+    
+}
+
+
+.book{
+    width: 70%;
+    height: 120%;
+    position: relative;
+    left: 15%;
+    top: 50px;
+    padding: 20px;
+    background-color: rgb(229, 229, 229);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.book input{
+    width: 70%;
+    padding: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 5px;
+}
+
+.book button{
+    cursor: pointer;
+    width: 70%;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    background-color: rgb(2, 117, 216);
+}
+
+.book textarea{
+    width: 70%;
+    padding: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 5px;
+}
+
+.qty{
+    position: absolute;
+    left: 160px;
+}
+
+
+
+
+.imgdetails{
+    width:468px;
+    height: 400px;
+
+}
+
+.prodetails{
+    text-align: left;
+    border: 1px solid gainsboro;
+    padding: 15px;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,78 @@
+
+
+
+
+
+
+.area{
+    width: 50%;
+    position: relative;
+    left: 26%;
+    top: 50px;
+    height: 70%;
+    border-radius: 10px;
+    background-color: rgb(229, 229, 229);
+    
+    
+    padding: 22px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .area input{
+    width: 70%;
+    padding: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 5px;
+  }
+  .area button{
+  
+    cursor: pointer;
+      width: 70%;
+      padding: 15px;
+      border-radius: 5px;
+      color: white;
+      border: none;
+      font-weight: bold;
+      background-color: rgb(2, 117, 216);
+     
+  }
+  
+  .err{
+    color: red;
+  }
+
+
+
+  .bor{
+    width: 50%;
+    position: relative;
+    left: 26%;
+    top: 50px;
+    height: 70%;
+    border-radius: 10px;
+    background-color: rgb(229, 229, 229);
+    padding: 22px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  
+  .bor input{
+    width: 70%;
+    padding: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 5px;
+  }
+  
+  
+  .sign{
+    
+      cursor: pointer;
+      width: 70%;
+      padding: 15px;
+      border-radius: 5px;
+      color: white;
+      border: none;
+      font-weight: bold;
+      background-color: rgb(2, 117, 216);
+  }
+  

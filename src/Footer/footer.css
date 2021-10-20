@@ -1,0 +1,40 @@
+.head{
+    background-color: rgb(40, 40, 43);
+    height: 170px;
+    padding: 18px;
+   
+
+}
+
+.head2{
+    background-color: rgb(40, 40, 43);
+    height: 160px;
+    padding-top: 5px;
+    border-radius: 10px;
+    width: 80%;
+    position:relative;
+    left: 10%;
+    top: 30%;
+  
+   
+}
+
+.head3{
+    background-color: rgb(40, 40, 43);
+    height: 120px;
+    padding-top: 5px;
+    border-radius: 10px;
+    width: 70%;
+    position:relative;
+    left: 14%;
+}
+
+.head4{
+    background-color: white;
+    padding: 8px;
+    width: 70%;
+    position: relative;
+    left: 14%;
+    top: 19%;
+    border-radius: 17px;
+}

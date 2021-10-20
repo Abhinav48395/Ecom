@@ -1,38 +1,73 @@
+body{
+  background-color: white !important;
+}
+
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+.brand{
+  font-weight: bold;
+  font-size: 28px !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.bar{
+  background-color: rgb(40, 40, 43);
+ 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.element{
+  font-weight: bold;
+  color: white !important;
+  padding-left: 14px !important;
+  padding-right: 14px !important;
+}
+
+.element:hover{
+  color: rgb(2, 117, 216) !important;
+}
+
+
+.footcol{
+  background-color: rgb(40, 40, 43) !important;
+ 
+
   color: white;
+  
 }
 
-.App-link {
-  color: #61dafb;
+.hrcol{
+  color: white !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.align{
+  text-align: left;
 }
+
+.footcol2{
+  background-color:rgb(229, 229, 229) ;
+}
+
+
+.cartcol{
+  background-color: white;
+  width: 55px !important;
+  height: 32px;
+  border-radius: 30px;
+  
+}
+
+
+.navcol{
+  background-color: rgb(229, 229, 229);
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+/* .fixed{
+  position: fixed !important;
+} */
